@@ -1,6 +1,6 @@
 package tracxn;
 
-public class XYZ {
+public class RemoveSuccessiveChars {
 	public static void main(String[] args) {
 		String input = "axefyzijkmoq";
 		int count;
